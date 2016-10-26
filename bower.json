@@ -1,0 +1,17 @@
+{
+  "name": "Prueba bower",
+  "homepage": "https://github.com/davidlf13/prueba-bower",
+  "authors": [
+    "David López <davidlopezfernandez13@gmail.com>"
+  ],
+  "description": "Esta sencilla aplicación sirve para demostrar el uso de Bower.",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
